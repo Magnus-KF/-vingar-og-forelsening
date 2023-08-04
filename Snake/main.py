@@ -38,7 +38,7 @@ def moveRight (event):
             x_position += 1
             snake_head = "x:{}_y:{}".format(x_position,y_position)
             coordinate_system_dictionary[snake_head].configure(text ="s")
-            time.sleep(1)
+            root.after(200,moveRight)
             x +=1
 root.bind("<KeyPress-d>", moveRight )
     
