@@ -1,0 +1,4 @@
+Laptop: 6500
+PC: 2345
+Smart watch: 2200
+Smart phone: 9000

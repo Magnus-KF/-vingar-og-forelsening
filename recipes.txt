@@ -1,0 +1,1 @@
+{"medium": [""], "fast": ["Fiskekaker"], "slow": ["Svineknoke "]}
